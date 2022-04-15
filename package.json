@@ -1,0 +1,12 @@
+{
+    "name": "app",
+    "version": "1.0.0",
+    "description": "typescript study",
+    "keywords": [
+        "gustavo"
+    ],
+    "author": "Gustavo Vinicius",
+    "dependencies": {
+        "@types/jquery": "^3.5.14"
+    }
+}
